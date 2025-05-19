@@ -252,7 +252,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Huzaif proved me wrong.",
+      "Peter didn't just deliver a website — he delivered an experience. His attention to both design and backend functionality was top-tier.",
     name: "MD Mustaqeem",
     designation: "Ecommerce",
     company: "QuickMart",
@@ -260,18 +260,18 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Huzaif does.",
-    name: "Abdul Raheman",
-    designation: "Ecommerce Business",
-    company: "justbuyz",
+      "We hired Peter to optimize our Odoo ERP and the transformation was next level. Our inventory and procurement flow is now fully automated.",
+    name: "Joern Schulte",
+    designation: "Director",
+    company: "Elora Supply & Logistics LTD",
     image: secondTestimonial,
   },
   {
     testimonial:
-      "After Huzaif optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "James Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
+      "Peter helped me bring my business online with a sleek, responsive website. He's professional, efficient, and genuinely cares about results.",
+    name: "Muraguri",
+    designation: "Director - Cleverline Auctioners",
+    company: "Cleverline Auctioners",
     image: thirdTestimonial,
   },
 ];
